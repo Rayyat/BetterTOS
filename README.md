@@ -126,7 +126,7 @@ Town of Salem is a game that lacks a Discord Rich Presence, but BetterTOS is her
 
 Known Issue: Discord RPC only works in Windows right now. In future builds Mac and Linux will also support this feature.
 
-<img src="/assets/img/rpc.png"/>
+<img src="/richpresence.png"/>
 
 
 # Custom Options
