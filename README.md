@@ -54,9 +54,9 @@ chmod u+x run_bepinex.sh
 # New Roles
 | Mafia | Town | Neutral |
 |----------|-------------|-----------------|
-| [Agent](#agent) | [Marshall](#marshall) | [Jackal](#jackal) |
-| [Beguiler](#mafia) | [Handler](#handler) | [Judge](#judge)
-| [Kidnapper](#mafia) |   | [Auditor](#Auditor)
+| [Agent](#agent-mafia-support) | [Marshall](#marshall-town-support) | [Jackal](#jackal-neutral-chaos) |
+| [Beguiler](#beguiler-mafia-deception) | [Handler](#handler-town-protective) | [Judge](#judge-neutral-evil)
+| [Kidnapper](#kidnapper-mafia-killing) |   | [Auditor](#auditor-neutral-evil)
 
 ## Agent (Mafia Support)
 This role can stalk someone at night and see who visits them. You have no limits unlike LO who can see maximum of 3 people.
